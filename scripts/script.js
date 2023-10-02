@@ -7,7 +7,7 @@ const data = [
     },
 
     {
-        name: "jJblko czerwone",
+        name: "Jablko czerwone",
         img: "./img/jablkoczerwone.jfif",
         cena: 3.99,
         catagory: "Czerwony",
